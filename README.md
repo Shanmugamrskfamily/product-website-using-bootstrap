@@ -8,7 +8,7 @@ This is a website project for Royal Enfield, built using HTML, CSS, and Bootstra
 
 ## Live Demo
 
-You can visit the live website [here](https://your-website-url.com).
+You can visit the live website [here](https://royal-enfield-senchola-bootstrap.netlify.app/).
 
 ## Features
 
@@ -23,5 +23,29 @@ You can visit the live website [here](https://your-website-url.com).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Shanmugamrskfamily/product-website-using-bootstrap.git
    ```
+
+2. Open the index.html file in your browser to view the website locally.
+
+## Screenshots
+
+<img src="./Assets/Screenshot (714).png"/>
+<br>
+<img src="./Assets/Screenshot (715).png"/>
+
+## Contributing
+
+Contributions are welcome! Please feel free to open issues or create pull requests for any improvements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Author
+
+[SHANMUGAM R](https://www.linkedin.com/in/shanmugamrskfamily/).
+
+## Acknowledgments
+
+Special thanks to Bootstrap for the front-end framework.
