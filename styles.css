@@ -27,18 +27,22 @@ body {
   margin-left: 15px;
 }
 .card:hover {
-  transform: scale(1.05); /* Increase size on hover */
+  transform: scale(1.05);
   transition: transform 0.2s ease-in-out;
-  box-shadow: 0 0 20px rgba(231, 65, 43, 0.37); /* Add a shadow on hover */
-  background: rgba(255, 255, 255, 0.8); /* Background glow effect */
+  box-shadow: 0 0 20px rgba(231, 65, 43, 0.37);
+  background: rgba(255, 255, 255, 0.8);
 }
 .img-fluid:hover {
-  transform: scale(1.05); /* Increase size on hover */
+  transform: scale(1.05);
   transition: transform 0.2s ease-in-out;
-  box-shadow: 0 0 20px rgba(91, 99, 85, 0.37); /* Add a shadow on hover */
-  background: rgba(255, 255, 255, 0.8); /* Background glow effect */
+  box-shadow: 0 0 20px rgba(91, 99, 85, 0.37);
+  background: rgba(255, 255, 255, 0.8);
 }
 .contact-form {
   max-width: 500px;
   margin: 0 auto;
+}
+.nav-link:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease-in-out;
 }
