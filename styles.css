@@ -1,0 +1,44 @@
+body {
+  background-image: linear-gradient(
+    rgba(94, 94, 113, 0.255),
+    rgba(145, 222, 248, 0.305)
+  );
+  font-family: "Croissant One", cursive;
+  font-family: "Dancing Script", cursive;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+.review-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+}
+
+.rating {
+  font-weight: bold;
+}
+
+.parameter {
+  font-weight: bold;
+}
+
+.parameter-value {
+  margin-left: 15px;
+}
+.card:hover {
+  transform: scale(1.05); /* Increase size on hover */
+  transition: transform 0.2s ease-in-out;
+  box-shadow: 0 0 20px rgba(231, 65, 43, 0.37); /* Add a shadow on hover */
+  background: rgba(255, 255, 255, 0.8); /* Background glow effect */
+}
+.img-fluid:hover {
+  transform: scale(1.05); /* Increase size on hover */
+  transition: transform 0.2s ease-in-out;
+  box-shadow: 0 0 20px rgba(91, 99, 85, 0.37); /* Add a shadow on hover */
+  background: rgba(255, 255, 255, 0.8); /* Background glow effect */
+}
+.contact-form {
+  max-width: 500px;
+  margin: 0 auto;
+}
