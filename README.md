@@ -1,6 +1,6 @@
 # Royal Enfield Website
 
-![Website Preview](URL_TO_WEBSITE_PREVIEW_IMAGE)
+![Website Preview](<https://github.com/Shanmugamrskfamily/product-website-using-bootstrap/blob/main/Assets/Screenshot%20(713).png>)
 
 ## Overview
 
